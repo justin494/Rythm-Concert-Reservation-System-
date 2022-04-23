@@ -1,6 +1,6 @@
 # Rythm-Concert-Reservation-System-
 
-# author: SAHARSH JUSTIN MATHIAS and MOUNISH VATTI
+<h1>Author: SAHARSH JUSTIN MATHIAS and MOUNISH VATTI<h1>
 
 
 <h1>What is it</h1>
